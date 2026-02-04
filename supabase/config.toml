@@ -1,0 +1,10 @@
+project_id = "dmoqyztlnwmiotgrabjl"
+
+[functions.planner-agent]
+verify_jwt = false
+
+[functions.executor-agent]
+verify_jwt = false
+
+[functions.verifier-agent]
+verify_jwt = false
